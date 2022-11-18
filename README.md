@@ -38,15 +38,12 @@
 36. Null Resource
 37. Modules from Public Registry
 38. Build Local Module
-39. Terraform Cloud - VCS-Driven Worflow
-40. Terraform Cloud - CLI-Driven Worflow
-41. Terraform Cloud - Share modules in private module registry
-42. Migrate State to Terraform Cloud
-43. Basic Sentinel Policies
-44. Cost Control Sentinel Policies
-45. CIS Sentinel Policies
-46. State Import
-47. Graph
-48. Functions
-49. Dynamic Expressions
-50. Dynamic Blocks
+39. Migrate State to Terraform Cloud
+40. Basic Sentinel Policies
+41. Cost Control Sentinel Policies
+42. CIS Sentinel Policies
+43. State Import
+44. Graph
+45. Functions
+46. Dynamic Expressions
+47. Dynamic Blocks
